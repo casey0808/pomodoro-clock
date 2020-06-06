@@ -1,0 +1,32 @@
+#clock {
+  font-size: 3rem;
+  font-weight: 500;
+  padding: 2rem;
+  color: white;
+  margin: 1rem auto;
+  width: 180px;
+  border: 5px solid white;
+  border-radius: 25px;
+  text-align: center;
+}
+
+#count {
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+
+#count span {
+  padding: 0.5rem;
+}
+
+button {
+  color: steelblue;
+  font-family: 'Righteous', cursive;
+  border-radius: 5px;
+  margin: 2px;
+  font-size: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
